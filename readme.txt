@@ -1,6 +1,6 @@
 ﻿Environment:
 --------------
-•	In this lab we are using Jupyter Notebook. We have used python for as voding languagc  . We are using Spark platform in our assignments, so we have installed Pyspark.
+• In this project we are using Jupyter Notebook. We have used python as coding language  . We are using Spark platform in our assignment, so we have installed Pyspark.
 
 
 Training data and Test data:
